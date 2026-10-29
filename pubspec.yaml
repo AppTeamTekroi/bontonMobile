@@ -1,0 +1,54 @@
+name: mobile_erp
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  pinput: ^2.3.0
+  shimmer: ^3.0.0
+  get: ^4.6.5
+  intl_phone_field: ^3.2.0
+  font_awesome_flutter: ^10.5.0
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.8.1
+  build_runner: ^2.4.6
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  json_serializable: ^6.6.2
+  http: ^1.4.0
+  flutter_switch: ^0.3.2
+  image_picker: ^1.0.2
+  intl: ^0.19.0
+  get_storage: ^2.1.1
+  shared_preferences: ^2.2.2
+#  simple_barcode_scanner: ^0.1.1
+  dropdown_plus: ^0.0.9
+  dropdown_model_list: ^2.1.0
+  dropdown_button2: ^2.3.9
+  syncfusion_flutter_pdfviewer: ^28.1.33
+  share_plus: ^10.1.2
+  url_launcher: ^6.2.6
+  carousel_slider: ^5.1.1
+  flutter_chat_ui: ^2.11.1
+  uuid: ^4.5.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/ui/assets/img.png
+    - lib/ui/assets/social1.png
+    - lib/ui/assets/
+
